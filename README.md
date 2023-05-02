@@ -8,6 +8,8 @@ Email: test@gmail.com
 
 Password: 123456
 
+[Example Demo](https://twitter-clone-rust-kappa.vercel.app/)
+
 We are going to learn funcionalities such as:
 
 - Authentication system
